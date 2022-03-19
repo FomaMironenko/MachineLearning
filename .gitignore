@@ -1,0 +1,4 @@
+*.csv
+*.ipynb_checkpoints*
+*trained-model*
+/MNIST/*-ubyte
